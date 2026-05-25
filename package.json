@@ -1,0 +1,13 @@
+{
+  "name": "my-scanner-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
